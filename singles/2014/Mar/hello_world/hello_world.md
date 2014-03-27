@@ -30,7 +30,7 @@ Estas contaram com a presença de muitos participantes e decorreram pela noite d
 #### Participação em Concursos de Programação
 
 Ao longo destes últimos anos, tem sido habitual o CAOS ser umas das equipas representantes da Universidade do Minho nas Maratonas Inter-Universitárias de Programação (MIUP) realizadas no nosso país.
-Colaboramos, também, com a comunidade de Desafios de Programação da Universidade do Minho (DPUM).
+Colaboramos também com a comunidade de Desafios de Programação da Universidade do Minho (DPUM).
 
 ### O que será publicado neste *blog*?
 --------------------------------------
